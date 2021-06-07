@@ -3,7 +3,7 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fathurrohman26&label=Profile%20views&color=0e75b6&style=flat" alt="fathurrohman26" /> </p>  
   
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fathurrohman26" alt="fathurrohman26" /></a> </p>  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fathurrohman26&theme=dracula" alt="fathurrohman26" /></a> </p>  
   
   
 <h3 align="left">Interested in:</h3>  
