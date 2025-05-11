@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there 👋, I'm Fathurrohman
 
-<!--
-**fathurrohman26/fathurrohman26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Backend Engineer** | 🛠️ **DevOps Enthusiast**  
+🔍 Always exploring new things in tech  
+🧠 Interested in **Blockchain** and **AI**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about building scalable backend systems and automating infrastructure for better performance and reliability.  
+Currently diving deeper into the world of decentralized technology and intelligent systems.
+
+I love learning, experimenting, and sharing my journey along the way.
+
+---
+
+🌐 Let's connect and collaborate!  
+📫 [LinkedIn](https://linkedin.com/in/fathurrohman26) | [Medium](https://medium.com/@fathurrohman26)
